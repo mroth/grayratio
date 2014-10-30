@@ -21,7 +21,8 @@ each of them.
 
 ## Screenshot
 
-[SCREENSHOT]
+<!-- screenshot in HTML so it can be force-half-sized for HiDPI support -->
+<img src="https://cloud.githubusercontent.com/assets/40650/4848081/a7050588-6057-11e4-982c-a54118be602a.png" width="682">
 
 ## Usage
 Clone this repo, and then when within the directory, do:
