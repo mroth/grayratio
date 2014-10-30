@@ -1,6 +1,6 @@
 # Grayratio
 
-![article-ss](images/greybalance2.jpg)
+![greybalance](https://cloud.githubusercontent.com/assets/40650/4846728/99611e3a-604d-11e4-9b41-41dab56d19a8.jpg)
 
 Blah blah blah...
 
