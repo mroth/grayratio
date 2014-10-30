@@ -28,12 +28,14 @@ ruined. :broken_heart:
 <img src="https://cloud.githubusercontent.com/assets/40650/4848081/a7050588-6057-11e4-982c-a54118be602a.png" width="682">
 
 ## Usage
-Clone or download this repo, and then when within the directory, do:
+Clone or [download][dl] this repo, and then when within the directory, do:
 
     ./grayratio.sh
 
 You're probably smart enough to figure out how to modify the script if you want
 some other information.
+
+[dl]: https://github.com/mroth/grayratio/releases/latest
 
 ## TODO
 I've considered wrapping this as a nicely formatted command line program that
