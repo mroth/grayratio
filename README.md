@@ -14,10 +14,12 @@ Thankfully, now that iMessage runs locally on MacOSX, many of us have a handy
 unencrypted copy of our message database we can easily access to solve this
 problem _with science_. :microscope:
 
-
 Grayratio will simply check your messages for the past 30 days, and give you a
 list of the top 10 people you've been texted with, and what the ratio is with
 each of them.
+
+**Disclaimer:** please don't hold me responsible for any potential relationships
+ruined. :broken_heart:
 
 ## Screenshot
 
@@ -25,7 +27,7 @@ each of them.
 <img src="https://cloud.githubusercontent.com/assets/40650/4848081/a7050588-6057-11e4-982c-a54118be602a.png" width="682">
 
 ## Usage
-Clone this repo, and then when within the directory, do:
+Clone or download this repo, and then when within the directory, do:
 
     ./grayratio.sh
 
