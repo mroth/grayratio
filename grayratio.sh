@@ -4,7 +4,7 @@ DAYS=30
 LIMIT=10
 
 #TODO: check gracefully for sqlite3
-#TODO: check gracefylly for database
+#TODO: check gracefully for database
 
 SECONDS=$((DAYS*86400))
 QUERY="

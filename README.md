@@ -30,7 +30,8 @@ some other information.
 ## TODO
 I've considered wrapping this as a nicely formatted command line program that
 takes options from the CLI, etc.  But I'm not sure if anyone actually wants
-that!  So if you do, just let me know.
+that!  So if you do, just let me know, and I'll work on adding it (or feel free
+to send a PR).
 
 
 ## Acknowledgements
