@@ -16,7 +16,8 @@ problem _with science_. :microscope:
 
 Grayratio will simply check your messages for the past 30 days, and give you a
 list of the top 10 people you've been texted with, and what the ratio is with
-each of them.
+each of them. (You obviously need to be using Messages on your Mac for this to
+work.)
 
 **Disclaimer:** please don't hold me responsible for any potential relationships
 ruined. :broken_heart:
