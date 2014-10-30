@@ -11,7 +11,7 @@ unencrypted copy of our message database we can easily access to solve this
 problem via _science_.
 
 
-Graymatter will simply check your messages for the past 30 days, and give you a
+Grayratio will simply check your messages for the past 30 days, and give you a
 list of the top 10 people you've been texted with, and what the ratio is with
 each of them.
 
